@@ -1,0 +1,19 @@
+{
+  "name": "claude-plugins",
+  "description": "Claude Code plugins by Velislav Gerov",
+  "owner": {
+    "name": "Velislav Gerov",
+    "url": "https://gerov.dev"
+  },
+  "plugins": [
+    {
+      "name": "chirak",
+      "description": "An open-source learning framework that turns Claude Code into a guided learning partner. Learn to build real projects with AI.",
+      "source": {
+        "source": "github",
+        "repo": "velislavgerov/chirak"
+      },
+      "version": "0.2.0"
+    }
+  ]
+}
