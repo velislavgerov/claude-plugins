@@ -5,7 +5,7 @@ A marketplace of Claude Code plugins.
 ## Installation
 
 ```
-/plugin marketplace add velislavgerov/claude-plugins
+/plugin marketplace add velislavgerov/gerov-plugins
 ```
 
 ## Available Plugins
@@ -15,7 +15,7 @@ A marketplace of Claude Code plugins.
 An open-source learning framework that turns Claude Code into a guided learning partner. Learn to build real projects with AI.
 
 ```
-/plugin install chirak@claude-plugins
+/plugin install chirak@gerov-plugins
 ```
 
 - [GitHub](https://github.com/velislavgerov/chirak)
